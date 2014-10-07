@@ -17,6 +17,8 @@
             // only blocks scroll if area is scrollable, set to false to always disable other element scroll
             autoscroll: true
         }
+        options = $.extend( defaults, options );
+        
         return this.bind( 'touchmove mousewheel DOMMouseScroll', function ( e ) {
             if( !options.autoscroll || ($(this).outerHeight() < $(this)[0].scrollHeight) ) {
                 var e0 = e.originalEvent,
