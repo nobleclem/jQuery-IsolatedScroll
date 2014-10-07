@@ -4,6 +4,7 @@
  * @Author: Patrick Springstubbe
  * @Contact: @JediNobleclem
  * @Website: springstubbe.us
+ * @Source: https://github.com/nobleclem/jQuery-IsolatedScroll
  * 
  * Usage:
  *     $('.scrollable').isolatedScroll();
