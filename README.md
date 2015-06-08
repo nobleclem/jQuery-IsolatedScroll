@@ -3,6 +3,9 @@ jQuery IsolatedScroll
 
 Isolate Scrolling to only element being scrolled
 
+## Demo
+http://springstubbe.us/projects/demos/jquery-isolatedscroll/
+
 ## Usage
 ```
 $('.scrollable').isolatedScroll();
