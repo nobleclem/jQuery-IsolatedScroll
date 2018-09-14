@@ -4,7 +4,7 @@ jQuery IsolatedScroll
 Isolate Scrolling to only element being scrolled
 
 ## Demo
-http://springstubbe.us/projects/demos/jquery-isolatedscroll/
+http://springstubbe.us/projects/jquery-isolatedscroll/
 
 ## Usage
 ```
